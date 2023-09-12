@@ -10,4 +10,5 @@ Front-End
 7.	Check out features are yet to be integrated into the appplication.
 
 # Home Page
-![Uploading home.jpg…]()
+![home](https://github.com/Khushi977/E-commerce_website/assets/130831307/db6a0f19-90ea-4f99-9a88-931dc571dccb)
+
